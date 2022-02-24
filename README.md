@@ -37,3 +37,15 @@ I am a developer who is very passionate about stuff like solving Data Structures
 </p>
 
 ---
+## 📊 SOME STATS
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=30-06-99pratham&custom_title=Github%20Stats&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=30-06-99pratham&show_icons=true&theme=tokyonight">
+</p>
+
+---
+
+<p align = "center">
+ <b>Show some ❤️ by 🌟starring and supporting my projects!</b>
+</p>
